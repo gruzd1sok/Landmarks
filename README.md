@@ -1,3 +1,1 @@
-# Landmarks
-Apple's tutorials SwiftUI
-https://developer.apple.com/tutorials/swiftui/
+I am editing the README file. Adding some more details about the project description.
